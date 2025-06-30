@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @caotianzhu1987
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-caotianzhu1987/caotianzhu1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🖐️ Hi, I’m @caotianzhu1987 
+- 👀 I’m interested in software development, especially exploring innovative ways to build web applications and working on open - source projects.
+- 🌱 I’m currently learning advanced JavaScript frameworks like Vue.js and diving deeper into cloud - based deployment with AWS. 
+- ❤️ I’m looking to collaborate on projects that focus on improving user experience in web apps or creating useful tools for developers. 
+- 📫 How to reach me: You can drop me an email at xy22010602@163.com 
+- 😊 Pronouns: He/Him 
+- ⚡ Fun fact: I once built a simple game during a long - haul flight using only a text editor on my laptop. 
